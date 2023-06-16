@@ -2,7 +2,7 @@
 # vi: set ft=ruby :
 
 BOX_IMAGE = "bento/ubuntu-20.04"
-NODE_COUNT = 3
+NODE_COUNT = 2
 
 # https://githubmemory.com/repo/hashicorp/vagrant/issues/12553
 $VM_nm="21"
